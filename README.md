@@ -9,6 +9,7 @@ Xadrez de ia com python 3 para o desafio chess da instituição icev
 ##Como começar
 Download do repositorio numpy
 git clone https://github.com/oiegvb/Xadrezes.git
+cd Xadrezes
 pip3 install numpy
 ```
 execute o programa

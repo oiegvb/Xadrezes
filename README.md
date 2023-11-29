@@ -1,17 +1,14 @@
-#CHESS IA
-Xadrez de ia com python 3 para o desafio chess da instituição icev
+# Xadrez IA em Python 3 - Desafio Chess ICEV
 
-#COMPONENTES DO GRUPO
--Mickael Gueds 
--Sammuel moura 
--Gabriel Lages
+## Componentes do Grupo
+- Mickael Gueds
+- Sammuel Moura
+- Gabriel Lages
 
-##Como começar
-Download do repositorio numpy
-git clone https://github.com/oiegvb/Xadrezes.git
-cd Xadrezes
-pip3 install numpy
-```
-execute o programa
-```
-python3 main.py
+## Como começar
+1. Faça o download do repositório numpy:
+2. git clone https://github.com/oiegvb/Xadrezes.git
+3. Instale a biblioteca numpy: pip3 install numpy
+4. Cd Xadrezes
+5. Execute o programa:python3 main.py
+
